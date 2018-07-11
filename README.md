@@ -1,4 +1,4 @@
-** STEPS **
+**STEPS**
 
 1. mvn clean package -DskipTests=true
 
